@@ -1,0 +1,1 @@
+A single-page React portfolio featuring a 3D orbital layout for showcasing projects and certificates with GSAP animations.

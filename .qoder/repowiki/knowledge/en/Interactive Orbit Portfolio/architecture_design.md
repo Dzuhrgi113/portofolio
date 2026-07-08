@@ -1,0 +1,5 @@
+- Entry point: `src/main.jsx` bootstraps the React app into the DOM.
+- Root component: `src/App.jsx` renders `OrbitCanvas`, which serves as the main layout container.
+- Layout & Animation: `src/components/OrbitCanvas.jsx` manages the global state for active cards and orchestrates GSAP animations for entrance and interaction effects.
+- Presentational components: `ProjectCard.jsx` and `CertificateCard.jsx` are stateless UI components receiving data and event handlers via props.
+- Styling: Uses Tailwind CSS for utility-first styling, configured via `tailwind.config.js` and `postcss.config.js`.

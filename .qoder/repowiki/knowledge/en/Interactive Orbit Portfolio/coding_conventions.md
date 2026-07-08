@@ -1,0 +1,3 @@
+- Components use Tailwind CSS utility classes for all styling, including conditional class names for active states.
+- Event handlers are passed down from parent containers to leaf components via props (e.g., `onClick`).
+- Data arrays (projects, certificates, tech stack) are defined as constants within the main canvas component rather than external files.

@@ -1,0 +1,43 @@
+# 知识卡导出索引文件
+schema_version: 1
+locale: en-US
+branch: Q0DeR-MaG1C-BrAnCh-Fo2-NoN-GiT-Or-No-C0MmIt
+exported_at: "2026-06-30T18:08:52Z"
+modules:
+    "":
+        dir_name: Interactive Orbit Portfolio
+        title: Interactive Orbit Portfolio
+        scope:
+            - src/
+            - index.html
+            - package.json
+            - vite.config.js
+            - tailwind.config.js
+            - postcss.config.js
+            - desain.md
+            - src\App.jsx
+            - src\components\CertificateCard.jsx
+            - src\components\OrbitCanvas.jsx
+            - src\components\ProjectCard.jsx
+            - src\index.css
+            - src\main.jsx
+            - tempinit\.gitignore
+            - tempinit\.oxlintrc.json
+            - tempinit\README.md
+            - tempinit\index.html
+            - tempinit\package-lock.json
+            - tempinit\package.json
+            - tempinit\public\favicon.svg
+            - tempinit\public\icons.svg
+            - tempinit\src\App.css
+            - tempinit\src\App.jsx
+            - tempinit\src\assets\hero.png
+            - tempinit\src\assets\react.svg
+            - tempinit\src\assets\vite.svg
+            - tempinit\src\index.css
+            - tempinit\src\main.jsx
+            - tempinit\vite.config.js
+        source_files: []
+        children: []
+        depends_on: []
+        related_to: []

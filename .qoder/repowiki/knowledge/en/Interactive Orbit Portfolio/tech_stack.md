@@ -1,0 +1,1 @@
+Uses GSAP (GreenSock Animation Platform) for complex 3D transformations and staggered entrance animations, integrated with React via `gsap.context`.
